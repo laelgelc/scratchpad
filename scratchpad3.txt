@@ -4,3 +4,6 @@ IBM Course
 
 
 8_Data_Visualisation_Plotting_directly_with_Matplotlib
+
+
+8_Data_Visualisation_Waffle_Charts_Word_Clouds_and_Regression_Plots
