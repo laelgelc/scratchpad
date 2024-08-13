@@ -1,4 +1,4 @@
-IBM Course
+IBM_Course
 
 8_Data_Visualisation_
 
@@ -7,3 +7,6 @@ IBM Course
 
 
 8_Data_Visualisation_Waffle_Charts_Word_Clouds_and_Regression_Plots
+
+8_Data_Visualisation_Creating_maps_and_visualizing_Geospatial_data
+8_Data_Visualisation_Creating_maps_and_visualizing_Geospatial_dataworld_countries
