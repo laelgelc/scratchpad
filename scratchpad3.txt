@@ -12,3 +12,32 @@ IBM_Course
 8_Data_Visualisation_Creating_maps_and_visualizing_Geospatial_dataworld_countries
 8_Data_Visualisation_Basic_Plotly_Charts
 
+plt.figure(figsize=(12, 6))
+# Grouping the data by 'Year' and calculating the mean of 'Estimated_fire_area'
+df_new = df.groupby('Year')['Estimated_fire_area'].mean()
+# Plotting the data
+df_new.plot(x=df_new.index, y=df_new.values)
+plt.xlabel('Year')
+plt.ylabel('Average Estimated Fire Area (km²)')
+plt.title('Estimated Fire Area over Time')
+plt.show()
+
+# Grouping the data by both 'Year' and 'Month', and calculating the mean of 'Estimated_fire_area'
+df_new = df.groupby(['Year','Month'])['Estimated_fire_area'].mean()
+# Plotting the data
+df_new.plot(x=df_new.index, y=df_new.values)
+plt.xlabel('Year, Month')
+plt.ylabel('Average Estimated Fire Area (km²)')
+plt.title('Estimated Fire Area over Time')
+plt.show()
+
+
+# Creating a scatter plot to visualize the relationship between mean estimated fire radiative power and mean  confidence using Seaborn
+plt.figure(figsize=(8, 6))
+# Using sns.scatterplot to create the scatter plot
+# Specifying the DataFrame (data=df) and the columns for the x-axis (x='Mean_confidence') and y-axis            (y='Mean_estimated_fire_radiative_power')
+sns.scatterplot(data=df, x='Mean_confidence', y='Mean_estimated_fire_radiative_power')
+plt.xlabel('Mean Estimated Fire Radiative Power (MW)')
+plt.ylabel('Mean Confidence')
+plt.title('Mean Estimated Fire Radiative Power vs. Mean Confidence')
+plt.show()
