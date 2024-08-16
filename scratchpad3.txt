@@ -10,3 +10,5 @@ IBM_Course
 
 8_Data_Visualisation_Creating_maps_and_visualizing_Geospatial_data
 8_Data_Visualisation_Creating_maps_and_visualizing_Geospatial_dataworld_countries
+8_Data_Visualisation_Basic_Plotly_Charts
+
