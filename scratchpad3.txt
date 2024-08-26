@@ -4,11 +4,5 @@ IBM_Course
 
 
 9_Machine_Learning_Multiple_Linear_Regression
-<<<<<<< HEAD
 9_Machine_Learning_K-Nearest_Neighbors
 
-=======
-9_Machine_Learning_K-Nearest_Neighbors
-
-
->>>>>>> 7ab9b024a2a34db565ba53df9c3c226d2b38977e
