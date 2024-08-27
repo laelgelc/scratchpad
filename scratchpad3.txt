@@ -8,29 +8,86 @@ IBM_Course
 
 marcos.oliveira161@fatec.sp.gov.br
 
+eyamrog@Rog-ASUS:~$ cd "$HOME"
 eyamrog@Rog-ASUS:~$ sudo apt update && sudo apt upgrade -y
+<omitted>
+eyamrog@Rog-ASUS:~$ sudo apt install -y python3-pip python3-venv
 [sudo] password for eyamrog: 
-Hit:1 http://archive.ubuntu.com/ubuntu jammy InRelease
-Get:2 http://archive.ubuntu.com/ubuntu jammy-updates InRelease [128 kB]      
-Get:3 http://security.ubuntu.com/ubuntu jammy-security InRelease [129 kB]    
-Hit:4 http://archive.ubuntu.com/ubuntu jammy-backports InRelease    
-Get:5 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [1987 kB]
-Fetched 2244 kB in 3s (806 kB/s)   
-Reading package lists... Done
-Building dependency tree... Done
-Reading state information... Done
-2 packages can be upgraded. Run 'apt list --upgradable' to see them.
-Reading package lists... Done
-Building dependency tree... Done
-Reading state information... Done
-Calculating upgrade... Done
-Get more security updates through Ubuntu Pro with 'esm-apps' enabled:
-  libheif1 imagemagick libavdevice58 ffmpeg libopenexr25 libpostproc55
-  libmagickcore-6.q16-6-extra libavcodec58 libmagickwand-6.q16-6 libavutil56
-  imagemagick-6.q16 libswscale5 libmagickcore-6.q16-6 libswresample3
-  imagemagick-6-common libavformat58 libde265-0 libavfilter7
-Learn more about Ubuntu Pro at https://ubuntu.com/pro
-The following packages have been kept back:
-  python3-update-manager update-manager-core
-0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
-eyamrog@Rog-ASUS:~$ 
+<omitted>
+eyamrog@Rog-ASUS:~$ python3 -m venv myenv
+eyamrog@Rog-ASUS:~$ ll
+total 148
+drwxr-x--- 16 eyamrog eyamrog  4096 Aug 27 12:15 ./
+drwxr-xr-x  3 root    root     4096 Mar 31 22:09 ../
+<omitted>
+drwxr-xr-x  5 eyamrog eyamrog  4096 Aug 27 12:15 myenv/
+<omitted>
+eyamrog@Rog-ASUS:~$ source "$HOME"/myenv/bin/activate
+(myenv) eyamrog@Rog-ASUS:~$ pip freeze
+(myenv) eyamrog@Rog-ASUS:~$ pip install pandas lxml
+Collecting pandas
+  Using cached pandas-2.2.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (13.0 MB)
+Collecting tzdata>=2022.7
+  Using cached tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+Collecting pytz>=2020.1
+  Using cached pytz-2024.1-py2.py3-none-any.whl (505 kB)
+Collecting python-dateutil>=2.8.2
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Collecting numpy>=1.22.4
+  Using cached numpy-2.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (16.3 MB)
+Collecting six>=1.5
+  Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: pytz, tzdata, six, numpy, python-dateutil, pandas
+Successfully installed numpy-2.1.0 pandas-2.2.2 python-dateutil-2.9.0.post0 pytz-2024.1 six-1.16.0 tzdata-2024.1
+Collecting lxml
+  Using cached lxml-5.3.0-cp310-cp310-manylinux_2_28_x86_64.whl (5.0 MB)
+Installing collected packages: lxml
+Successfully installed lxml-5.3.0
+(myenv) eyamrog@Rog-ASUS:~$ pip freeze
+lxml==5.3.0
+numpy==2.1.0
+pandas==2.2.2
+python-dateutil==2.9.0.post0
+pytz==2024.1
+six==1.16.0
+tzdata==2024.1
+(myenv) eyamrog@Rog-ASUS:~$ mkdir work
+(myenv) eyamrog@Rog-ASUS:~$ cd work
+(myenv) eyamrog@Rog-ASUS:~/work$ ll
+total 8
+drwxr-xr-x  2 eyamrog eyamrog 4096 Aug 27 12:01 ./
+drwxr-x--- 16 eyamrog eyamrog 4096 Aug 27 12:15 ../
+(myenv) eyamrog@Rog-ASUS:~/work$ git clone https://github.com/laelgelc/cl_st1_marcos.git
+Cloning into 'cl_st1_marcos'...
+remote: Enumerating objects: 11, done.
+remote: Counting objects: 100% (11/11), done.
+remote: Compressing objects: 100% (9/9), done.
+remote: Total 11 (delta 1), reused 8 (delta 1), pack-reused 0 (from 0)
+Receiving objects: 100% (11/11), 31.27 KiB | 6.25 MiB/s, done.
+Resolving deltas: 100% (1/1), done.
+(myenv) eyamrog@Rog-ASUS:~/work$ cd cl_st1_marcos/
+(myenv) eyamrog@Rog-ASUS:~/work/cl_st1_marcos$ ll
+total 212
+drwxr-xr-x 4 eyamrog eyamrog   4096 Aug 27 12:20 ./
+drwxr-xr-x 3 eyamrog eyamrog   4096 Aug 27 12:20 ../
+drwxr-xr-x 8 eyamrog eyamrog   4096 Aug 27 12:20 .git/
+drwxr-xr-x 2 eyamrog eyamrog   4096 Aug 27 12:20 .ipynb_checkpoints/
+-rw-r--r-- 1 eyamrog eyamrog  16084 Aug 27 12:20 CL_St1_Marcos.ipynb
+-rw-r--r-- 1 eyamrog eyamrog     54 Aug 27 12:20 README.md
+-rw-r--r-- 1 eyamrog eyamrog    257 Aug 27 12:20 cl_st1_marcos.py
+-rw-r--r-- 1 eyamrog eyamrog 175914 Aug 27 12:20 debate.xml
+(myenv) eyamrog@Rog-ASUS:~/work/cl_st1_marcos$ python cl_st1_marcos.py
+(myenv) eyamrog@Rog-ASUS:~/work/cl_st1_marcos$ ll
+total 492
+drwxr-xr-x 4 eyamrog eyamrog   4096 Aug 27 12:26 ./
+drwxr-xr-x 3 eyamrog eyamrog   4096 Aug 27 12:20 ../
+drwxr-xr-x 8 eyamrog eyamrog   4096 Aug 27 12:20 .git/
+drwxr-xr-x 2 eyamrog eyamrog   4096 Aug 27 12:20 .ipynb_checkpoints/
+-rw-r--r-- 1 eyamrog eyamrog  16084 Aug 27 12:20 CL_St1_Marcos.ipynb
+-rw-r--r-- 1 eyamrog eyamrog     54 Aug 27 12:20 README.md
+-rw-r--r-- 1 eyamrog eyamrog    257 Aug 27 12:20 cl_st1_marcos.py
+-rw-r--r-- 1 eyamrog eyamrog 153138 Aug 27 12:26 debate.jsonl
+-rw-r--r-- 1 eyamrog eyamrog 129291 Aug 27 12:26 debate.tsv
+-rw-r--r-- 1 eyamrog eyamrog 175914 Aug 27 12:20 debate.xml
+(myenv) eyamrog@Rog-ASUS:~/work/cl_st1_marcos$ deactivate
+eyamrog@Rog-ASUS:~/work/cl_st1_marcos$ 
