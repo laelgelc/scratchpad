@@ -6,3 +6,31 @@ IBM_Course
 9_Machine_Learning_Multiple_Linear_Regression
 9_Machine_Learning_K-Nearest_Neighbors
 
+marcos.oliveira161@fatec.sp.gov.br
+
+eyamrog@Rog-ASUS:~$ sudo apt update && sudo apt upgrade -y
+[sudo] password for eyamrog: 
+Hit:1 http://archive.ubuntu.com/ubuntu jammy InRelease
+Get:2 http://archive.ubuntu.com/ubuntu jammy-updates InRelease [128 kB]      
+Get:3 http://security.ubuntu.com/ubuntu jammy-security InRelease [129 kB]    
+Hit:4 http://archive.ubuntu.com/ubuntu jammy-backports InRelease    
+Get:5 http://archive.ubuntu.com/ubuntu jammy-updates/main amd64 Packages [1987 kB]
+Fetched 2244 kB in 3s (806 kB/s)   
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+2 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Calculating upgrade... Done
+Get more security updates through Ubuntu Pro with 'esm-apps' enabled:
+  libheif1 imagemagick libavdevice58 ffmpeg libopenexr25 libpostproc55
+  libmagickcore-6.q16-6-extra libavcodec58 libmagickwand-6.q16-6 libavutil56
+  imagemagick-6.q16 libswscale5 libmagickcore-6.q16-6 libswresample3
+  imagemagick-6-common libavformat58 libde265-0 libavfilter7
+Learn more about Ubuntu Pro at https://ubuntu.com/pro
+The following packages have been kept back:
+  python3-update-manager update-manager-core
+0 upgraded, 0 newly installed, 0 to remove and 2 not upgraded.
+eyamrog@Rog-ASUS:~$ 
