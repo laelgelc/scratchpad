@@ -1,7 +1,47 @@
-re.sub(r'\s+', ' ', tokenised_line)
-re.sub(r'\s{2,}', ' ', text)
-
-
-prompt = 'Dear ChatGPT, would it be possible for you to improve the writing of the following passage of a research article considering the generally accepted standards of English for Academic Purposes? Please keep each improved passage within a single paragraph - do not split it into multiple paragraphs. OK?\n'
-    
-Dear ChatGPT, please write a piece of academic text based on the following notes considering the generally accepted standards of English for Academic Purposes. It is very important that you are as objective, scientific and non-metaphorical as you can be.
+article_drop_list = [
+    't000001',
+    't000017',
+    't000023',
+    't000037',
+    't000051',
+    't000053',
+    't000057',
+    't000058',
+    't000066',
+    't000067',
+    't000074',
+    't000095',
+    't000096',
+    't000101',
+    't000111',
+    't000113',
+    't000114',
+    't000116',
+    't000119',
+    't000124',
+    't000131',
+    't000136',
+    't000139',
+    't000142',
+    't000143',
+    't000149',
+    't000154',
+    't000158',
+    't000167',
+    't000171',
+    't000175',
+    't000180',
+    't000185',
+    't000186',
+    't000190',
+    't000205',
+    't000224',
+    't000232',
+    't000233',
+    't000239',
+    't000240',
+    't000311',
+    't000329',
+    't000339',
+    't000359'
+]
