@@ -1,0 +1,94 @@
+References
+
+Ackermann, K. & Chen, Y-H. (2013). Developing the Academic Collocation List (ACL): A corpus-driven and expert-judged approach. Journal of English for Academic Purposes, 12, 235–247. https://doi.org/10.1016/j.jeap.2013.08.002
+Almela, A., Cantos Gómez, P. & Berber Sardinha, T. (2022). Métodos multidimensionales basados en corpus del español. In G. Parodi, P. Cantos Gómez, & L. Howe (Eds.), The Routledge Handbook of Spanish Corpus Linguistics (pp. 545-557). Routledge.
+Altenberg, B. & Tapper, M. (1998). The use of adverbial connectors in advanced Swedish learners’ written English. In: Granger, S. (Ed.). Learner English on computer. London: Pearson Education, pp. 80-93.
+Almeida, V., Orfanó, B. & Dutra D. (2022). Is there a better choice? Verb-noun combinations in academic writing. In: V. Viana (Ed.). Teaching English with Corpora: A Resource Book (pp. 228-231).Abingdon: Routledge. http://dx.doi.org/10.4324/ b22833-47
+Alves, J. C. (2022). Grammatical complexity in a learner corpus: assessing students’ development through a longitudinal study. Master’s Thesis, Universidade Federal de Minas Gerais, Brazil.
+Ang, L. H., Tan, K. H. & He, M. (2017). A Corpus-based Collocational Analysis of Noun Premodification Types in Academic Writing. The Southeast Asian Journal of English Language Studies, 23(1), 115–131. DOI: 10.17576/3L-2017-2301-09
+Ansarifar, A., Shahriari, H. & Pishghadam, R (2018). Phrasal complexity in academic writing: A comparison of abstracts written by graduate students and expert writers in applied linguistics. Journal of English for Academic Purposes, 31, 58-71. https://doi. org/10.1016/j.jeap.2017.12.008
+Bardovi-Harlig, K. (1992). A second look at T-unit analysis: Reconsidering the sentence. TESOL Quarterly, 26, 390–395. doi:10.2307/3587016.
+Berber Sardinha, T. (2000). Análise Multidimensional. DELTA, 16(1), 99-127.
+Berber Sardinha, T. (2017). Lexical priming and register variation. In M. Pace-Sigge & K. Patterson (Eds.), Lexical Priming: Applications and Advances. Amsterdam: John Benjamins. (pp. 190-230). https://doi.org/10.1075/scl.79.08ber
+Berber Sardinha, T. (2021). Discourse of academia from a multi-dimensional perspective. In E. Friginal & J. Hardy (Eds.), The Routledge Handbook of Corpus Approaches to Discourse Analysis (pp. 298-318). Abingdon: Routledge.
+Berber Sardinha, T. & Veirano Pinto, M. (Eds.). (2014). Multi-Dimensional Analysis, 25 years on: A Tribute to Douglas Biber. John Benjamins.
+Berber Sardinha, T. & Veirano Pinto, M. (Eds.). (2019). Multi-Dimensional Analysis: Research Methods and Current Issues. New York: Bloomsbury.
+Berber Sardinha, T. & Shimazumi, M. (2021). Variation in learner writing in English: A multi-dimensional analysis of the new ICLE v.3. [Paper presentation]. XV Encontro de Linguística de Corpus (ELC). Online.
+Biber, D. (1988). Variation across speech and writing. Cambridge: Cambridge University Press.
+Biber, D. (1993). Representativeness in corpus design. Literary and Linguistic Computing, 8, 243–257.
+Biber, D. (2006). University Language: A corpus-based study of spoken and written registers. Amsterdam/Philadelphia, PA: John Benjamins.
+Biber, D. (2009). A corpus-driven approach to formulaic language in English: multiword patterns in speech and writing. International Journal of Corpus Linguistics, 14(3), 275-311.
+Biber, D., Conrad, S. & Reppen, R. (1998). Corpus linguistics: Investigating language structure and use. Cambridge: Cambridge University Press.
+Biber, D., Johansson, S., Leech, G., Conrad, S. & Finegan, E. (1999). Longman grammar of spoken and written English. Longman.
+Biber, D., Conrad, S. & Cortes, V. (2004). If you look at.: lexical bundles in university teaching and textbooks. Applied Linguistics, 25(3), 371–405.
+Biber, D. & Conrad, S. (2009). Register, genre and style. Cambridge. Cambridge.
+Biber, D. & Gray, B. (2010). Challenging stereotypes about academic writing: complexity, elaboration, explicitness. Journal of English for Academic Purposes, 9(1), 2–20. doi: 10.1016/J.JEAP.2010.01.001
+Biber, D., Gray, B. & Poonpon, K. (2011). Should we use characteristics of conversation to measure grammatical complexity in L2 writing development? TESOL Quarterly, 45(1), 5-35. https://doi.org/10.5054/tq.2011.244483
+Biber, D. & Gray, B. (2016). Grammatical complexity in academic English: Linguistic change in writing. Cambridge: Cambridge University Press.
+Biber, D. & Gray, B., Staples, S. (2016). Contrasting the Grammatical Complexities of Conversation and Academic Writing: Implications for EAP Writing Development and Teaching. Language in Focus Journal, 2(1), 1-18. DOI: 10.1515/lifijsal-2016-0001
+Biber, D., Reppen, R., Staples, S. & Egbert, J. (2020). Exploring the longitudinal development of grammatical complexity in the disciplinary writing of L2-English university students. International Journal of Learner Corpus Research, 6(1), 38-71, 2020. https:// doi.org/10.1075/ijlcr.18007.bib
+Bocorny, A. E. P. & Welp, A. (2021). Desenho de tarefas pedagógicas para o ensino de Inglês para Fins Acadêmicos: conquistas e desafios da Linguística de Corpus. Revista Estudos da Linguagem, 29(2), 1529-1638. DOI: 10.17851/2237-2083.29.2.1529-1638
+Campion, M. & Elley, W. (1971). An Academic Word List. Wellington New Zealand Council for Educational Research.
+Carter, R. & McCarthy, M. (2006). Cambridge grammar of English A comprehensive guide to spoken and written English usage. Cambridge: Cambridge University Press.
+Conrad, S. & Biber, D. (Eds.). (2001). Variation in English: Multi-Dimensional Studies. London: Longman.
+Cortes, V. (2013). The purpose of this study is to: Connecting lexical bundles and moves in research article introductions. Journal of English for Academic Purposes,12(1), 33-43. https://doi.org/10.1016/j.jeap.2012.11.002.
+Coxhead, A. (2000). A new academic word list. TESOL Quarterly, 34, 213–238.
+Crosthwaite, P., Luciana & Wijaya, D. (2021). Exploring language teachers’ lesson planning for corpus-based language teaching: a focus on developing TPACK for corpora and DDL, Computer Assisted Language Learning. (pp. 1-29). https://doi.org/10.1 080/09588221.2021.1995001
+Davies, M. (2008). The Corpus of Contemporary American English (COCA): 600 million words, 1990-present. Available online at https://www.english-corpora.org/coca/.
+Delegá-Lucio, D. (2013). A variação entre textos argumentativos e o material didático de inglês: Aplicações da análise multidimensional e do Corpus Internacional de Aprendizes de Inglês (ICLE). Doctoral dissertation. Pontifícia Universidade Católica de São Paulo, Brazil.
+Dutra, D. P., Orfanò, B. M., Guedes, A. S, Alves, J. C. & Fekete, J. G. (2022). The learner corpus path: a worthwhile methodological challenge. DELTA, 38(2), 1-24. https://doi. org/10.1590/1678-460X202238249731
+Dutra, D. & Berber Sardinha, T. (2021). A multi-dimensional typology of English research article sections. American Association for Applied Linguistics Conference (AAAL). Online.
+Dutra, D. P.; Queiroz, J. M.; Macedo, L. D.; Costa, D.& Mattos, E. (2020). Adjective as nominal premodifiers in Chemistry and Applied Linguistics Corpora. In: Römer, U.; Cortes, V. & Friginal, E. (Eds.). Advances in Corpus-based Research on Academic Writing Egects of discipline, register, and writer expertise. Amsterdam: John Benjamins Publishing Company. (pp. 205-226) Amsterdam: John Benjamins Publishing Company. https://doi.org/10.1075/scl.95.09dut.
+Dutra, D. P., Orfanó, B. M. & Almeida, V. C. (2019). Result linking adverbials in learner corpora. Domínios de Lingu@gem, 13(1), 400-431. https://doi.org/10.14393/ DL37-v13n1a2019-17
+Dutra, D. P. & Berber Sardinha, T. (2018). A linguistic typology of sections in research articles: a Multi-Dimensional perspective. [Paper presentation] AZCL Conference, Northern Arizona University, Flagstaff, AZ., USA.
+Dutra, D. P.; Queiroz, J. & Alves, J. C. (2017). Adding information in argumentative tests: a learners corpus-based study of additive linking adverbials. Estudos Anglo Americanos, 46(1), 9-32.
+Egbert, J. & Staples, S. (2019). Doing Multi-Dimensional Analysis in SPSS, SAS, and R. In T. Berber Sardinha & M. Veirano Pinto (Eds.), Multi-dimensional analysis: Research methods and current issues (pp. 125-144). New York: Bloomsbury.
+Ellis, N. (2008). Phraseology: the periphery and the heart of language. In F. Meunier, F. & S. Granger (Eds.). Phraseology in Foreign Language Learning and Teaching. Amsterdam & Philadelphia: Benjamins, 1-13.
+Friginal, E. & Hardy, J. A. (2014). Conducting Multi-Dimensional analysis using SPSS. In T. Berber Sardinha & M. Veirano Pinto (Eds.), Multi-Dimensional Analysis, 25 years on: A Tribute to Douglas Biber (pp. 298-316). Amsterdam & Philadelphia: John Benjamins.
+Firth, J. R. (1957). Papers in linguistics: 1934–1951. London, England: Oxford University Press.
+Gardner, D. & Davies, D. (2014). A new academic vocabulary list. Applied Linguistics, 35(3), 305–327.https://doi.org/10.1093/applin/amt015
+Ghadessy, P. (1979). Frequency counts, word lists, and materials preparation: a new approach, English Teaching Forum 17, 24–7.
+Granger, S., Larsson, T. (2021). Is core vocabulary a friend or foe of academic writing? Single-word vs multi-word uses of thing Journal of English for Academic Purposes, 52 https://doi.org/10.1016/j.jeap.2021.100999.
+Granger, S., Dupont, M., Meunier, F., Naets, H. & Paquot, M. (2020). The International Corpus of Learner English, Version 3. Louvain-la-Neuve: Presses universitaires de Louvain.
+Granger, S. (1998). The computer learner corpus: a versatile new source of data for SLA research. In S. Granger (Ed.), Learner English on Computer (pp. 3–18). Harlow: Longman.
+Gray, B. (2013). More than discipline: Uncovering multi-dimensional patterns of variation in academic research articles. Corpora, 8, 153-181.
+Hardy, J. & Römer, U. (2013). Revealing disciplinary variation in student writing: A multi-dimensional analysis of the Michigan Corpus of Upper-level Student Papers (MICUSP). Corpora, 8, 183-207.
+Hutter, Jo-Anne. (2015). A Corpus Based Analysis of Noun Modification in Empirical Research Articles in Applied Linguistics. Master’s Thesis, Portland State University.
+Hyland, K. (2008). “As can be seen: Lexical bundles and disciplinary variation”, English for Specific Purposes 27, 4–21. doi:10.1016/j.esp.2007.06.001
+Hyland, K. (2016). General and specific EAP. K. Hyland, K.; & P. Shaw, (Eds.). The Routledge Handbook of English for academic purposes. New York: Routledge. (pp. 17-29).
+Hyland, K. & Jiang, F. (2021). Delivering relevance: The emergence of ESP as a discipline. Journal of English for Academic Purposes, 64, 13-25 https://doi.org/10.1016/j. esp.2021.06.002
+Johns, T. (1991). Should you be persuaded - two samples of data-driven learning materials. T. Johns, P. King, P. (eds) Classroom Concordancing. ELR Journal, 4, 1-16.
+Lake, W. M. & Cortes, V. (2020). Lexical bundles as reflections of disciplinary norms in Spanish and English literary criticism, history, and psychology research. In Romer, U., Cortes, V. & Friginal, E. Advances in Corpus-based Research on Academic Writing Egects of discipline, register, and writer expertise (pp 95-183). Amsterdam: John Benjamins Publishing Company.
+Liu, C.-Y. & Chen, H.-J. H. (2020). Analyzing the functions of lexical bundles in undergraduate academic lectures for pedagogical use. English for Specific Purposes, 58, 122-137 https://doi.org/10.1016/j.esp.2019.12.003
+Lorentz, G. (1998). Overstatement in advanced learners’ writing: Stylistic aspects of adjective intensification. In S. Granger (Ed.), Learner English on Computer (pp. 53–66). Harlow: Longman.
+Lynn, R. W. (1973). Preparing word lists: a suggested method. RELC Journal 4, 25–32.
+Matte, M. L. & Sarmento, S. (2018). A corpus-based study of connectors in student academic writing. English for Specific Purposes World, 20(55), 1-21.
+McCarthy, M., McCarten, J., & Sandiford, H. (2014). Touchstone 1. Cambridge: Cambridge University Press.
+Nation, I. S. P. (2001). Learning vocabulary in another language. Cambridge: Cambridge University Press.
+Neely, E. & Cortes, V. (2009). A little bit about: analyzing and teaching lexical bundles in academic lectures. Language Value, 1(1) 17–38.
+Nesselhauf, N. (2003). The use of collocations by advanced learners of English and some implications for teaching. Applied Linguistics, 24(2), 223–242.
+Nesselhauf, N. (2005). Collocations in a learner corpus. Amsterdam: John Benjamins.
+Nesi, H. (2016). Corpus studies in EAP. K. Hyland, K.; & P. Shaw, (Eds.). The Routledge Handbook of English for academic purposes (pp. 2016-217). New York: Routledge.
+Nesi, H. & Basturkmen, H. (2006). “Lexical bundles and discourse signalling in academic lectures”. International Journal of Corpus Linguistics, 11(3), 283-304.
+Ortega, L. (2003). Syntactic complexity measures and their relationship to L2 proficiency: A research synthesis of college-level L2 writing. Applied Linguistics, 24, 492–518. doi:10.1093/applin/24.4.492.
+Paquot, M. (2008). Exemplification in learner writing: A cross-linguistic perspective. In F. Meunier, F. & S. Granger (Eds.). Phraseology in Foreign Language Learning and Teaching (pp. 101-119). Amsterdam & Philadelphia: Benjamins.
+Parkinson, J. & Musgrave, J. (2014). Development of noun phrase complexity in the writing of English for Academic Purposes students. Journal of English for Academic Purposes, 14, 48-59. https://doi.org/10.1016/j.jeap.2013.12.001
+Praninskas, J. (1972). American University Word List. Longman.
+Queiroz, J. (2019). The grammatical complexity of English noun phrases in Brazilian learners’ academic writing: a corpus-based study. MA thesis - Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.
+Reppen, R. (2018). Teaching lexical bundles: Which ones and how? In E. Hinkel (Ed.). Teaching essential units of language: Beyond single word vocabulary (pp. 186-200). Routledge. https://doi.org/10.4324/9781351067737
+Reppen, R. & Olson, S. B. (2020). Lexical bundles across disciplines. In U. Römer, V. Cortes & E. Friginal. Advances in Corpus-based Research on Academic Writing: Egects of discipline, register, and writer expertise (pp. 169-182). Amsterdam: John Benjamins.
+Römer, U. (2010). Using general and specialized corpora in English language teaching: past, present and future. M. C. Campoy-Cubillo, B. Belles-Fortuno, & M. L. Gea-Valor, (Eds.). Corpus-Based Approaches to English Language Teaching (pp. 18-35). London: Continuum.
+Salager-Meyer, F., de Segura, G. M. L. & Ramos, R. C. G. (2016). EAP in Latin America. In K. Hyland, & P. Shaw, (Eds.), The Routledge Handbook of English for academic purposes (pp. 109-124). New York: Routledge.
+Sarmento, S.; Dutra, D. P.; Barbosa, M. V. & Moraes Filho, W. B. (2016 ) IsF e Internacionalização: da teoria à prática. In S. Sarmento, D. M. de Abreu-e-Lima.; W. B. Moraes
+Filho. (Org.). Do Inglês sem Fronteiras ao Idiomas sem Fronteiras: a construção de uma política linguística para a internacionalização (pp. 77-100). Belo Horizonte: Editora UFMG.
+Simpson-Vlach, R. & Ellis, N.C. (2010). An Academic Formulas List: New methods in phraseology research. Applied Linguistics, 31(4), 487–512.
+Sinclair, J. (1987). Collins COBUILD English language dictionary. London: Collins.
+Sinclair, J. (1991). Corpus, concordance and collocation. Oxford: Oxford University Press.
+Swales, J. (1990). Genre analysis: English in academic and research settings. Cambridge: Cambridge University Press.
+Viana, V; O’Boyle, A. (2022). Corpus Linguistics for English for Academic Purposes (Routledge Corpus Linguistics Guides) Abingdon: Taylor and Francis. Kindle Edition.
+Welp, A., Didio, Á. & Finkler, B. (2019). Questões contemporâneas no cinema e na literatura: o desenho de uma sequência didática para o ensino de inglês como língua adicional. Brazilian English Language Teaching Journal, 10(2), 1-25, DOI: https:// doi. org/10.15448/2178-3640.2019.2.3586
+West, M. (1953). A general service list of English words. London: Longman, Green & Co.
+Xue, G. & Nation, P. (1984). A university word list. Language Learning and Communication 3, 215–29.
+Zuppardi, M. C. (2020). Collocation dimensions in academic English. PhD dissertation. Pontifícia Universidade Católica de São Paulo, São Paulo.
+Zuppardi, M. C. & Berber Sardinha, T. (2020). A multi-dimensional view of collocations in academic writing. U. Römer, V. Cortes, & E. Friginal, (Eds.), Advances in Corpus-based Research on Academic Writing. Egects of Discipline, Register, and Writer Expertise (pp. 334–353). Amsterdam/Philadelphia: John Benjamins. https://doi. org/10.1075/scl.95.14zup
+Zuppardi, M. C., Veirano Pinto, M. & Berber Sardinha, T. (in prep.). Multi-Dimensional Analysis. In C. Chapelle (Ed.), The Encyclopedia of Applied Linguistics (2nd ed.). Hoboken, NJ: Wiley.
